@@ -40,7 +40,7 @@ export function Footer() {
                 <Bike className="h-5 w-5 text-primary" />
               </div>
               <span className="font-display text-xl font-bold">
-                TerraCycles
+                RideSphere
               </span>
             </Link>
             <p className="text-primary-foreground/80 max-w-sm mb-6">
@@ -117,11 +117,11 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:hello@terracycles.com"
+                  href="mailto:hello@rideSphere.com"
                   className="flex items-center gap-3 text-primary-foreground/70 transition-colors hover:text-primary-foreground"
                 >
                   <Mail className="h-5 w-5 shrink-0" />
-                  <span className="text-sm">hello@terracycles.com</span>
+                  <span className="text-sm">hello@rideSphere.com</span>
                 </a>
               </li>
             </ul>
@@ -132,7 +132,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/60 text-sm">
-              © {new Date().getFullYear()} TerraCycles. All rights reserved.
+              © {new Date().getFullYear()} RideSphere. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">

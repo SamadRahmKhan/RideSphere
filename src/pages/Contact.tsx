@@ -50,7 +50,7 @@ const Contact = () => {
                 <div className="space-y-4">
                   <div className="flex gap-3"><MapPin className="h-5 w-5 text-primary shrink-0" /><span className="text-muted-foreground">123 Cycle Lane, Portland, OR 97201</span></div>
                   <div className="flex gap-3"><Phone className="h-5 w-5 text-primary shrink-0" /><span className="text-muted-foreground">(555) 123-4567</span></div>
-                  <div className="flex gap-3"><Mail className="h-5 w-5 text-primary shrink-0" /><span className="text-muted-foreground">hello@terracycles.com</span></div>
+                  <div className="flex gap-3"><Mail className="h-5 w-5 text-primary shrink-0" /><span className="text-muted-foreground">hello@rideSphere.com</span></div>
                   <div className="flex gap-3"><Clock className="h-5 w-5 text-primary shrink-0" /><span className="text-muted-foreground">Mon-Sat: 9AM-6PM, Sun: 10AM-4PM</span></div>
                 </div>
               </div>

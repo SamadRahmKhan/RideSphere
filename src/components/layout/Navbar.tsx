@@ -26,7 +26,7 @@ export function Navbar() {
             <Bike className="h-5 w-5 text-primary-foreground" />
           </div>
           <span className="font-display text-xl font-bold text-foreground">
-            Terra<span className="text-primary">Cycles</span>
+            Ride<span className="text-primary">Sphere</span>
           </span>
         </Link>
 

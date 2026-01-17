@@ -11,7 +11,7 @@ export function TestimonialsSection() {
             What Our Riders Say
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Don't just take our word for it. Hear from cyclists who've made TerraCycles 
+            Don't just take our word for it. Hear from cyclists who've made RideSphere 
             their trusted companion on every adventure.
           </p>
         </div>

@@ -3,7 +3,7 @@ import { Wrench, Shield, Ruler, Headphones } from "lucide-react";
 
 const services = [
   { icon: Wrench, title: "Repairs & Maintenance", desc: "Full-service bike shop with certified mechanics. From tune-ups to complete overhauls." },
-  { icon: Shield, title: "Lifetime Warranty", desc: "All TerraCycles frames come with a lifetime warranty. We stand behind our craftsmanship." },
+  { icon: Shield, title: "Lifetime Warranty", desc: "All RideSphere frames come with a lifetime warranty. We stand behind our craftsmanship." },
   { icon: Ruler, title: "Professional Fitting", desc: "Get the perfect fit with our bike fitting service. Comfort and performance optimized." },
   { icon: Headphones, title: "Expert Support", desc: "Our cycling experts are here to help you choose the right bike and accessories." }
 ];
